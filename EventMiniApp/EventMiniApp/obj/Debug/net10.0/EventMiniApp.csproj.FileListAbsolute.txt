@@ -1,0 +1,9 @@
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.csproj.AssemblyReference.cache
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.AssemblyInfoInputs.cache
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.AssemblyInfo.cs
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.csproj.CoreCompileInputs.cache
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayazl\Desktop\JwtTokenn\EventMiniApp\EventMiniApp\obj\Debug\net10.0\EventMiniApp.sourcelink.json

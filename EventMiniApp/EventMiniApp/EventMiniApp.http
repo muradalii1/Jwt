@@ -1,0 +1,6 @@
+@EventMiniApp_HostAddress = http://localhost:5070
+
+GET {{EventMiniApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

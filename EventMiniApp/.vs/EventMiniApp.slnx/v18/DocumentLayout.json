@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\eventminiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\eventminiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\controllers\\organizercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\controllers\\organizercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\controllers\\eventcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\controllers\\eventcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\controllers\\ticketcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\controllers\\ticketcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\validators\\ticketupdatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\validators\\ticketupdatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\validators\\organizerupdatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\validators\\organizerupdatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\validators\\eventupdatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\validators\\eventupdatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\validators\\ticketcreatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\validators\\ticketcreatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\data\\eventminiappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\data\\eventminiappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\validators\\organizercreatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\validators\\organizercreatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\validators\\eventcreatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\validators\\eventcreatevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\organizerdto\\organizergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\organizerdto\\organizergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\ticketdto\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\ticketdto\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\ticketdto\\ticketupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\ticketdto\\ticketupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\ticketdto\\ticketgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\ticketdto\\ticketgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\data\\configurations\\eventconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\data\\configurations\\eventconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\organizerdto\\organizerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\organizerdto\\organizerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\organizerdto\\organizercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\organizerdto\\organizercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\eventdto\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\eventdto\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\eventdto\\eventgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\eventdto\\eventgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\dtos\\eventdto\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\dtos\\eventdto\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\data\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\data\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\data\\configurations\\organizerconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\data\\configurations\\organizerconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|c:\\users\\ayazl\\desktop\\jwttokenn\\eventminiapp\\eventminiapp\\eventminiapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3927205C-11D8-F25E-E394-A0E5EA3FE177}|EventMiniApp\\EventMiniApp.csproj|solutionrelative:eventminiapp\\eventminiapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventMiniApp",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\EventMiniApp.csproj",
+              "RelativeDocumentMoniker": "EventMiniApp\\EventMiniApp.csproj",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\EventMiniApp.csproj",
+              "RelativeToolTip": "EventMiniApp\\EventMiniApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-23T23:24:48.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\AuthDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\AuthDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\AuthDto\\RegisterDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\AuthDto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:13:47.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizerControllers.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\OrganizerControllers.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Controllers\\OrganizerControllers.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\OrganizerControllers.cs",
+              "RelativeToolTip": "EventMiniApp\\Controllers\\OrganizerControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:43:00.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventControllers.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\EventControllers.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Controllers\\EventControllers.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\EventControllers.cs",
+              "RelativeToolTip": "EventMiniApp\\Controllers\\EventControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:39:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketControllers.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\TicketControllers.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Controllers\\TicketControllers.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\TicketControllers.cs",
+              "RelativeToolTip": "EventMiniApp\\Controllers\\TicketControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:41:25.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Program.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Program.cs",
+              "RelativeToolTip": "EventMiniApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:31:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventMiniApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:16:57.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\AuthDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\AuthDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\AuthDto\\LoginDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\AuthDto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:14:03.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Models\\Event.cs",
+              "RelativeToolTip": "EventMiniApp\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:45:35.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Models\\Organizer.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Models\\Organizer.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Models\\Organizer.cs",
+              "RelativeToolTip": "EventMiniApp\\Models\\Organizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:45:36.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "EventMiniApp\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:45:38.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EventMiniApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\appsettings.json",
+              "RelativeToolTip": "EventMiniApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T18:34:35.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "EventMiniApp\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:33:05.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketUpdateValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\TicketUpdateValidators.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Validators\\TicketUpdateValidators.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\TicketUpdateValidators.cs",
+              "RelativeToolTip": "EventMiniApp\\Validators\\TicketUpdateValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:23:30.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrganizerUpdateValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\OrganizerUpdateValidators.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Validators\\OrganizerUpdateValidators.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\OrganizerUpdateValidators.cs",
+              "RelativeToolTip": "EventMiniApp\\Validators\\OrganizerUpdateValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:21:47.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventUpdateValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\EventUpdateValidators.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Validators\\EventUpdateValidators.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\EventUpdateValidators.cs",
+              "RelativeToolTip": "EventMiniApp\\Validators\\EventUpdateValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:19:47.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketCreateValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\TicketCreateValidators.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Validators\\TicketCreateValidators.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\TicketCreateValidators.cs",
+              "RelativeToolTip": "EventMiniApp\\Validators\\TicketCreateValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:10:14.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventMiniAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\EventMiniAppDbContext.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Data\\EventMiniAppDbContext.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\EventMiniAppDbContext.cs",
+              "RelativeToolTip": "EventMiniApp\\Data\\EventMiniAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:47:12.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrganizerCreateValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\OrganizerCreateValidators.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Validators\\OrganizerCreateValidators.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\OrganizerCreateValidators.cs",
+              "RelativeToolTip": "EventMiniApp\\Validators\\OrganizerCreateValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:09:39.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventCreateValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\EventCreateValidators.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Validators\\EventCreateValidators.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Validators\\EventCreateValidators.cs",
+              "RelativeToolTip": "EventMiniApp\\Validators\\EventCreateValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:09:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrganizerGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\OrganizerDto\\OrganizerGetDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\OrganizerDto\\OrganizerGetDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\OrganizerDto\\OrganizerGetDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\OrganizerDto\\OrganizerGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:11:57.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicketCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\TicketDto\\TicketCreateDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\TicketDto\\TicketCreateDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\TicketDto\\TicketCreateDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\TicketDto\\TicketCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:12:39.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TicketUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\TicketDto\\TicketUpdateDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\TicketDto\\TicketUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\TicketDto\\TicketUpdateDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\TicketDto\\TicketUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:13:30.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TicketGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\TicketDto\\TicketGetDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\TicketDto\\TicketGetDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\TicketDto\\TicketGetDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\TicketDto\\TicketGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:13:18.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\Configurations\\EventConfiguration .cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Data\\Configurations\\EventConfiguration .cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\Configurations\\EventConfiguration .cs",
+              "RelativeToolTip": "EventMiniApp\\Data\\Configurations\\EventConfiguration .cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:44:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrganizerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\OrganizerDto\\OrganizerUpdateDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\OrganizerDto\\OrganizerUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\OrganizerDto\\OrganizerUpdateDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\OrganizerDto\\OrganizerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:12:01.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrganizerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\OrganizerDto\\OrganizerCreateDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\OrganizerDto\\OrganizerCreateDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\OrganizerDto\\OrganizerCreateDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\OrganizerDto\\OrganizerCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:11:38.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\EventDto\\EventUpdateDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\EventDto\\EventUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\EventDto\\EventUpdateDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\EventDto\\EventUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:11:21.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\EventDto\\EventGetDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\EventDto\\EventGetDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\EventDto\\EventGetDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\EventDto\\EventGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:11:15.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EventCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\EventDto\\EventCreateDto.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Dtos\\EventDto\\EventCreateDto.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Dtos\\EventDto\\EventCreateDto.cs",
+              "RelativeToolTip": "EventMiniApp\\Dtos\\EventDto\\EventCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T19:11:07.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventMiniApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventMiniApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T19:06:45.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TicketConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\Configurations\\TicketConfiguration.cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Data\\Configurations\\TicketConfiguration.cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\Configurations\\TicketConfiguration.cs",
+              "RelativeToolTip": "EventMiniApp\\Data\\Configurations\\TicketConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:44:19.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrganizerConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\Configurations\\OrganizerConfiguration .cs",
+              "RelativeDocumentMoniker": "EventMiniApp\\Data\\Configurations\\OrganizerConfiguration .cs",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\Data\\Configurations\\OrganizerConfiguration .cs",
+              "RelativeToolTip": "EventMiniApp\\Data\\Configurations\\OrganizerConfiguration .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:44:17.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EventMiniApp.http",
+              "DocumentMoniker": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\EventMiniApp.http",
+              "RelativeDocumentMoniker": "EventMiniApp\\EventMiniApp.http",
+              "ToolTip": "C:\\Users\\ayazl\\Desktop\\JwtTokenn\\EventMiniApp\\EventMiniApp\\EventMiniApp.http",
+              "RelativeToolTip": "EventMiniApp\\EventMiniApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-23T18:33:29.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
